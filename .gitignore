@@ -1,0 +1,66 @@
+__pycache__/
+*.pyc
+build/
+dist/
+models/
+separated/
+recap_output/
+TikTok_Highlights/
+_srt_temp/
+_bsrt_temp/
+bin/
+scratch/
+scratch_test/
+
+# Large files & logs
+*.wav
+*.mp3
+*.mp4
+*.ico
+errors.txt
+errors_filtered.txt
+errors_utf8.txt
+build_log*.txt
+build_fulloffline_log*.txt
+final_build_log.txt
+export_error_log.txt
+effects_results*.txt
+undo_results.txt
+pyarmor.bug.log
+temp_grep.txt
+build_version_info.txt
+transcription_import_status.txt
+startup_torch_status.txt
+
+# Large folders & binaries
+demucs_helper/
+demucs_models/
+*.exe
+*.pkg
+*.pyz
+
+# Cython / Nuitka compiled artifacts (generated — do not commit)
+*.c
+*.pyd
+nuitka_build/
+obf/
+obfuscated/
+
+# PyArmor obfuscation output
+protected_code.txt
+AI_Video_Dubber_V2_CPU_Offline.zip
+
+# Virtual environment
+venv_cpu/
+venv/
+.venv/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+frontend/dist/
+package-lock.json
+
+# IDE
+.vscode/settings.json
+.idea/

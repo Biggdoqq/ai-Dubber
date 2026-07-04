@@ -51,7 +51,7 @@
     "publish": {
       "provider": "github",
       "owner": "Biggdoqq",
-      "repo":  "AI_Video_Dubber_Clean",
+      "repo":  "ai-Dubber",
       "releaseType": "release"
     }
   },

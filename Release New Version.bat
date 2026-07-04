@@ -53,6 +53,6 @@ echo   - Create GitHub Release v%NEW_VERSION%
 echo   - Publish for Auto-Update
 echo  ==========================================
 echo.
-echo  Check: https://github.com/Biggdoqq/AI_Video_Dubber_Clean/releases
+echo  Check: https://github.com/Biggdoqq/ai-Dubber/releases
 echo.
 pause

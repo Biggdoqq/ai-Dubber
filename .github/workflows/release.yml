@@ -32,7 +32,7 @@ jobs:
 
       # 4. Install root npm dependencies (Electron, electron-builder)
       - name: Install Node dependencies
-        run: npm ci
+        run: npm install
 
       # 5. Install frontend dependencies and build React app
       - name: Install & Build Frontend
